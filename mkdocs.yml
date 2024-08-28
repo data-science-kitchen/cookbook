@@ -13,6 +13,7 @@ theme:
 
 nav:
   - Home: 'index.md'
+  - Team: 'team.md'
   - 'Getting Started':
     - 'Code of Conduct': 'code_of_conduct.md'
 
