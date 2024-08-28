@@ -28,6 +28,13 @@ extra:
     actions:
       - accept
       - reject
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://
+    - icon: fontawesome/brands/github
+      link: https://github.com/data-science-kitchen
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/data-science-kitchen
 
 copyright: Copyright &copy; 2024 Data Science Kitchen
 
