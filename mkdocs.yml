@@ -1,11 +1,21 @@
 site_name: Data Science Kitchen Cookbook
 site_url: https://data-science-kitchen.github.io/cookbook
+
 theme:
   name: material
   language: en
   palette:
     primary: teal
     scheme: slate
+  features:
+    - navigation.expand
+    - navigation.top
+
+nav:
+  - Home: 'index.md'
+  - 'Getting Started':
+    - 'Code of Conduct': 'code_of_conduct.md'
+
 extra:
   consent:
     title: Cookie consent
@@ -17,5 +27,6 @@ extra:
     actions:
       - accept
       - reject
+
 copyright: Copyright &copy; 2024 Data Science Kitchen
 
