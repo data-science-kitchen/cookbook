@@ -1,0 +1,5 @@
+site_name: Data Science Kitchen Cookbook
+site_url: https://data-science-kitchen.github.io/cookbook
+theme:
+  name: material
+
