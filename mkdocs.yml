@@ -16,6 +16,8 @@ nav:
   - Team: 'team.md'
   - 'Getting Started':
     - 'Code of Conduct': 'code_of_conduct.md'
+  - 'Kitchen Talks': 'kitchen_talks.md'
+  - 'Kitchen Lab': 'kitchen_lab.md'
 
 extra:
   consent:
