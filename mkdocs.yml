@@ -20,6 +20,7 @@ nav:
   - 'Kitchen Lab': 'kitchen_lab.md'
   - Team: 'team.md'
   - 'Code of Conduct': 'code_of_conduct.md'
+  - Contributing: 'contributing.md'
 
 extra:
   consent:
