@@ -8,16 +8,18 @@ theme:
     primary: teal
     scheme: slate
   features:
+    - content.action.edit
+    - content.action.view
     - navigation.expand
     - navigation.top
 
 nav:
   - Home: 'index.md'
-  - Team: 'team.md'
-  - 'Getting Started':
-    - 'Code of Conduct': 'code_of_conduct.md'
+  - 'Getting Started': 'getting_started.md'
   - 'Kitchen Talks': 'kitchen_talks.md'
   - 'Kitchen Lab': 'kitchen_lab.md'
+  - Team: 'team.md'
+  - 'Code of Conduct': 'code_of_conduct.md'
 
 extra:
   consent:
