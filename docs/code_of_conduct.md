@@ -35,7 +35,7 @@ Some DSK activities require confidentiality to protect the work of ideators and 
 - **Public Communication**: At events and in communication channels open to the general public, assume there is no confidentiality. Share only what you are comfortable with others copying or modifying. If you find someone’s work valuable, feel free to share it, but always give proper credit to the originator, just as you would when citing published papers.
 
 ## Reporting
-If you experience or witness unacceptable behavior, or have any other concerns, please notify a community leader immediately at [CONTACT_INFO_HERE]. All reports will be reviewed and investigated promptly, with a commitment to respecting the privacy and security of the reporter.
+If you experience or witness unacceptable behavior, or have any other concerns, please notify a community leader immediately at <info@data-science-kitchen.de>. All reports will be reviewed and investigated promptly, with a commitment to respecting the privacy and security of the reporter.
 
 ## Consequences
 Community leaders will determine the consequences of violations based on this Code of Conduct:
@@ -48,4 +48,4 @@ Community leaders will determine the consequences of violations based on this Co
 This Code of Conduct applies to all DSK community spaces and extends to anyone representing the community in public spaces. This includes using an official email address, posting from official social media accounts, or acting as a representative at any online or offline event.
 
 ## Credit and License
-This Code of Conduct is licensed under the Creative Commons Zero (CC0) license. It was inspired by and parts of it were taken and modified from the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/), the [Citizen Code of Conduct](https://web.archive.org/web/20200330154000/http://citizencodeofconduct.org/), and the [ML Collective Code of Conduct](https://mlcollective.org/wiki/code-of-conduct/).
+This Code of Conduct was inspired by and parts of it were taken and modified from the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/), the [Citizen Code of Conduct](https://web.archive.org/web/20200330154000/http://citizencodeofconduct.org/), and the [ML Collective Code of Conduct](https://mlcollective.org/wiki/code-of-conduct/).
