@@ -16,8 +16,29 @@ At DSK, we believe that data science has the power to shape a better future. We 
 
 ## Onboarding
 
-If you are completely new to DSK and want to learn more, we provide you here with an onboarding guideline that will help you to get access to our primary communication channels and getting to know our community. Whether you want to directly jump in to actively contribute to the various activities we offer, or if you want to start slowly and just want to get to know everything first, the following steps will help you to get started:
+If you are completely new to DSK and want to learn more, we provide you here with an onboarding guideline that will help you to get access to our primary communication channels and getting to know our community. Whether you want to directly jump in to actively contribute to the various activities we offer, or if you want to start slowly and just want to get to know everything first, the following steps will help you to get started.
 
-1. If you have not done this yet, join our Discord server [here](). Discord is the primary communication channel of our community.
+### Discord
+
+Discord is defenitly the best entry point for you.
+
+1. If you have not done this yet, join our Discord server [here](https://discord.gg/rtpgc6FCGZ). Discord is the primary communication channel of our community.
 2. Feel free to say hello to the community with a brief introduction in the [#introduce-yourself](https://discord.com/channels/1266840090987200708/1272650912606982205) channel.
 3. Request access to our [GitHub organization](https://github.com/data-science-kitchen) via out [#help-github](https://discord.com/channels/1266840090987200708/1285341289377829038) channel in Discord. An admin will take care of your request as soon as possible.
+
+### Talks
+
+Kitchen Talks: How to participate
+
+Kitchen Lab: How to participate 
+
+### Community Events
+
+Events, Meetings, Workshops
+
+### Links
+
+Table of links
+
+### Contact information
+
