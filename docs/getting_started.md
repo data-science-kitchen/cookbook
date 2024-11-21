@@ -16,8 +16,65 @@ At DSK, we believe that data science has the power to shape a better future. We 
 
 ## Onboarding
 
-If you are completely new to DSK and want to learn more, we provide you here with an onboarding guideline that will help you to get access to our primary communication channels and getting to know our community. Whether you want to directly jump in to actively contribute to the various activities we offer, or if you want to start slowly and just want to get to know everything first, the following steps will help you to get started:
+If you are completely new to DSK and want to learn more, we provide you here with an onboarding guideline that will help you to get access to our primary communication channels and getting to know our community. Whether you want to directly jump in to actively contribute to the various activities we offer, or if you want to start slowly and just want to get to know everything first, the following steps will help you to get started.
 
-1. If you have not done this yet, join our Discord server [here](). Discord is the primary communication channel of our community.
+### Discord
+
+Discord is defenitly the best entry point for you.
+
+1. If you have not done this yet, join our Discord server [here](https://discord.gg/rtpgc6FCGZ). Discord is the primary communication channel of our community.
 2. Feel free to say hello to the community with a brief introduction in the [#introduce-yourself](https://discord.com/channels/1266840090987200708/1272650912606982205) channel.
 3. Request access to our [GitHub organization](https://github.com/data-science-kitchen) via out [#help-github](https://discord.com/channels/1266840090987200708/1285341289377829038) channel in Discord. An admin will take care of your request as soon as possible.
+
+### Events
+
+**[Kitchen Talks](https://discord.com/channels/1266840090987200708/1269030704982003802)**
+
+Kitchen Talks is our bi-weekly event series designed to spark curiosity and foster knowledge-sharing in a casual, inclusive environment. Each session focuses on a specific topic related to Data Science, Machine Learning, AI, or related fields. The format is flexible: presenters can simply talk, showcase a paper, or deliver a structured presentation using slides.
+
+How to Participate:
+
+- Join Our Discord: All upcoming Kitchen Talks are announced in our community Discord.
+- Attend the Talk: Join the session to listen, learn, and discuss.
+- Ask Questions: Use the chat to submit your questions or share insights.
+- Volunteer as a Presenter: Passionate about a topic? Check out our Kitchen Talks repository to propose your own session.
+- Typical sessions last around 60 minutes.
+- Links: [Github](https://github.com/data-science-kitchen/kitchen-talks), [Discord](https://discord.com/channels/1266840090987200708/1269030704982003802)
+
+Note: Presentations may be recorded and shared, but discussions remain private to encourage open dialogue.
+
+
+**[Kitchen Lab](https://discord.com/channels/1266840090987200708/1307100889969856614)**
+
+The Kitchen Lab is our creative workshop—a place where ideas are born and transformed into projects. Whether you're brainstorming a research topic, exploring a new tool, or sketching out a Kaggle competition strategy, this is the space to collaborate.
+
+How to Engage:
+
+- Share your ideas in our dedicated Kitchen Lab Discord channel.
+- Use Threads for focused discussions about specific ideas.
+- Propose your projects on GitHub to get started.
+- Links: [Github](https://github.com/data-science-kitchen/kitchen-lab), [Discord](https://discord.com/channels/1266840090987200708/1266847603534856203)
+
+### Github
+
+Our GitHub repositories are the backbone of collaboration at Data Science Kitchen. Here’s how to make the most of them:
+
+- Explore Repositories: Browse existing projects to see where you can contribute.
+- Collaborate: Work with other community members by contributing to ongoing projects.
+- Share Results: Open source your code, publish your findings, or present your work at a Kitchen Talks session.
+
+Visit our [GitHub Organization](https://github.com/data-science-kitchen) to dive in!
+
+### Links
+
+| **Name**               | **Description**                                                                                    | **Link**                                                                                           |
+|------------------------|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| **Homepage**           | Official website of Data Science Kitchen                                                           | [Homepage](https://data-science-kitchen.github.io/cookbook/)                                       |
+| **Discord Server**     | The central communication channel of the community                                                 | [Discord](https://discord.gg/rtpgc6FCGZ)                                                           |
+| **GitHub Organization**| Collection of all repositories for projects and collaboration                                       | [GitHub Organization](https://github.com/data-science-kitchen)                                     |
+| **Kitchen Talks**      | Information about our regular events and presentations                                             | [GitHub](https://github.com/data-science-kitchen/kitchen-talks), [Discord](https://discord.com/channels/1266840090987200708/1269030704982003802) |
+| **Kitchen Lab**        | Platform for sharing ideas and collaborating on projects                                           | [GitHub](https://github.com/data-science-kitchen/kitchen-lab), [Discord](https://discord.com/channels/1266840090987200708/1266847603534856203) |
+| **Introduce Yourself** | Introduce yourself to the community and make initial contacts                                      | [#introduce-yourself](https://discord.com/channels/1266840090987200708/1272650912606982205)        |
+| **Help: GitHub Access**| Channel to request access to the GitHub organization                                               | [#help-github](https://discord.com/channels/1266840090987200708/1285341289377829038)               |
+| **Ideas Channel**      | Share and discuss new project ideas in the Kitchen Lab                                             | [#ideas](https://discord.com/channels/1266840090987200708/1266847603534856203)                     |
+| **Looking for a Team** | Find team members for your projects                                                                | [#looking-for-a-team](https://discord.com/channels/1266840090987200708/1269023783650463774)        |
