@@ -38,7 +38,8 @@ How to Participate:
 - Attend the Talk: Join the session to listen, learn, and discuss.
 - Ask Questions: Use the chat to submit your questions or share insights.
 - Volunteer as a Presenter: Passionate about a topic? Check out our Kitchen Talks repository to propose your own session.
-- Typical sessions last about 60 minutes:
+- Typical sessions last around 60 minutes.
+- Links: [Github](https://github.com/data-science-kitchen/kitchen-talks), [Discord](https://discord.com/channels/1266840090987200708/1269030704982003802)
 
 Note: Presentations may be recorded and shared, but discussions remain private to encourage open dialogue.
 
@@ -52,6 +53,7 @@ How to Engage:
 - Share your ideas in our dedicated Kitchen Lab Discord channel.
 - Use Threads for focused discussions about specific ideas.
 - Propose your projects on GitHub to get started.
+- Links: [Github](https://github.com/data-science-kitchen/kitchen-lab), [Discord](https://discord.com/channels/1266840090987200708/1266847603534856203)
 
 ### Github
 
@@ -70,8 +72,8 @@ Visit our [GitHub Organization](https://github.com/data-science-kitchen) to dive
 | **Homepage**         | Offizielle Webseite von Data Science Kitchen                                                        | [Homepage](https://data-science-kitchen.github.io/cookbook/)                                      |
 | **Discord Server**   | Der zentrale Kommunikationskanal der Community                                                      | [Discord](https://discord.gg/rtpgc6FCGZ)                                                         |
 | **GitHub Organization** | Sammlung aller Repositories für Projekte und Kollaboration                                         | [GitHub Organization](https://github.com/data-science-kitchen)                                   |
-| **Kitchen Talks**    | Informationen zu unseren regelmäßigen Events und Präsentationen                                     | [Kitchen Talks](https://discord.com/channels/1266840090987200708/1269030704982003802)                |
-| **Kitchen Lab**      | Plattform für das Teilen von Ideen und die Zusammenarbeit an Projekten                              | [Kitchen Lab Channel](https://discord.com/channels/1266840090987200708/1307100889969856614)      |
+| **Kitchen Talks**    | Informationen zu unseren regelmäßigen Events und Präsentationen                                     | [Github](https://github.com/data-science-kitchen/kitchen-talks), [Discord](https://discord.com/channels/1266840090987200708/1269030704982003802) |
+| **Kitchen Lab**      | Plattform für das Teilen von Ideen und die Zusammenarbeit an Projekten                              | [Github](https://github.com/data-science-kitchen/kitchen-lab), [Discord](https://discord.com/channels/1266840090987200708/1266847603534856203) |
 | **Introduce Yourself** | Stelle dich der Community vor und knüpfe erste Kontakte                                            | [#introduce-yourself](https://discord.com/channels/1266840090987200708/1272650912606982205)      |
 | **Help: GitHub Access** | Kanal, um Zugang zur GitHub-Organisation zu beantragen                                             | [#help-github](https://discord.com/channels/1266840090987200708/1285341289377829038)             |
 | **Ideas Channel**    | Teile und diskutiere neue Projektideen im Kitchen Lab                                               | [#ideas](https://discord.com/channels/1266840090987200708/1266847603534856203)                  |
